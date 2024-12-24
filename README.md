@@ -99,4 +99,6 @@ The system provides the administrator with complete control over library managem
 ### **Conclusion:**
 The Library Management System effectively automates and simplifies routine library tasks. The use of SQL ensures robust database management, while Python with Tkinter provides an intuitive GUI for interaction. This project demonstrates the integration of front-end and back-end systems to deliver a cohesive and functional application. It is scalable and can be further enhanced with additional features like reporting, email notifications, or integration with an online portal for members.
 This project also provided an excellent opportunity to enhance skills in SQL commands and Python programming, showcasing the ability to design and implement a complete system.
+![Library Management System GUI](https://github.com/shakiraa125/SQL_TASK/blob/main/Task1_LibraryManagement/images/GUI1.png)
+
 
