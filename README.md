@@ -1,5 +1,13 @@
-## Library Management System 
 
+### Name:SHAKIRA
+### Company:CODETECH IT SOLUTION
+### ID::CT12FDE
+### Domain:SQL
+### Duration:December
+20th, 2024 to February 20th, 2025.
+
+### Project Overview
+## Library Management System 
 ---
 **TASK:**
 Create a database for managing a library's book inventory, members, and
