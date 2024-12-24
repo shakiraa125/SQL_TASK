@@ -3,8 +3,7 @@
 ---
 **TASK:**
 Create a database for managing a library's book inventory, members, and
-borrow/return transactions. This project helps you learn basic SQL commands
-and database design. Design tables for books, members, and transactions.
+borrow/return transactions. Design tables for books, members, and transactions.
 Write SQL queries to insert, update, delete, and retrieve data.\
 **Language Used:**
 - SQL
@@ -92,6 +91,5 @@ The system provides the administrator with complete control over library managem
 
 ### **Conclusion:**
 The Library Management System effectively automates and simplifies routine library tasks. The use of SQL ensures robust database management, while Python with Tkinter provides an intuitive GUI for interaction. This project demonstrates the integration of front-end and back-end systems to deliver a cohesive and functional application. It is scalable and can be further enhanced with additional features like reporting, email notifications, or integration with an online portal for members.
-
----
+This project also provided an excellent opportunity to enhance skills in SQL commands and Python programming, showcasing the ability to design and implement a complete system.
 
