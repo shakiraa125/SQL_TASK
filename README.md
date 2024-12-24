@@ -6,7 +6,6 @@ Domain:SQL\
 Duration:December 20th, 2024 to February 20th, 2025**\
 
 
-### Project Overview
 ## Library Management System 
 ---
 **TASK:**
